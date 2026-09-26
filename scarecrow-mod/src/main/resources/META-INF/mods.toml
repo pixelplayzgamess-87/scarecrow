@@ -7,9 +7,9 @@ issueTrackerURL=""
 modId="scarecrow"
 version="1.0.0"
 displayName="Scarecrow"
-authors="CodDev"
+authors="CodDev and ChiefXD"
 description='''
-A horror-themed Minecraft mod adding a GeckoLib-animated scarecrow entity with pose, dormant and hunting states.
+Scarecrow mod for ChiefXD
 '''
 
 [[dependencies.scarecrow]]
