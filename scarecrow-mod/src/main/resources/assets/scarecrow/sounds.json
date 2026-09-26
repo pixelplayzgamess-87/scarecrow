@@ -1,0 +1,12 @@
+{
+  "chase": {
+    "category": "hostile",
+    "subtitle": "sound.scarecrow.chase",
+    "sounds": [
+      {
+        "name": "scarecrow:chase",
+        "stream": true
+      }
+    ]
+  }
+}
